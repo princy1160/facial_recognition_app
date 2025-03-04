@@ -1,0 +1,1 @@
+Developed a real-time automated attendance system using Face Recognition technology that captures video input through a webcam, identifies registered faces, and records attendance in a CSV file with timestamps.
